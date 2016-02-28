@@ -77,6 +77,7 @@ WSGI_APPLICATION = 'opscomm.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'opscomm',
         'HOST': 'localhost',
         'USER': 'mluich',
         'PASSWORD': '',
