@@ -1,0 +1,5 @@
+# Copy this to settings_local.py and setup your local settings here.
+
+SECRET_KEY = 'SomeRandomAscii'
+
+DEBUG = True
