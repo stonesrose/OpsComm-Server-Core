@@ -9,7 +9,7 @@ For example, Tracking the location of a host's network port might invlove a dns 
 
 **opscomm search hostname**
 
-Loookups and searches in 3 applications combined down to one cli command.
+Loookups and searches in multiple applications combined down to one cli command.
 
 In order to do this, the server uses "datastores" to individually lookup and format the information from all of these different sources before it's handed off to the client application. 
 
